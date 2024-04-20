@@ -1,0 +1,156 @@
+
+
+
+#path1{
+    animation: path1anim 10s linear 0s infinite ;
+}
+
+@keyframes path1anim {
+    0%{
+        fill: none;
+    }
+    77%,100%{
+        fill: black;
+    }
+    
+}
+
+#path2{
+    animation: path2anim 10s linear 0s infinite ;
+}
+
+@keyframes path2anim {
+    0%{
+        fill: none;
+    }
+    70%,100%{
+        fill: black;
+    }
+    
+}
+#path3{
+    animation: path3anim 10s linear 0s infinite ;
+}
+
+@keyframes path3anim {
+    0%{
+        fill: none;
+    }
+    7%,100%{
+        fill: black;
+    }
+    
+}
+#path4{
+    animation: path4anim 10s linear 0s infinite ;
+}
+
+@keyframes path4anim {
+    0%{
+        fill: none;
+    }
+    63%,100%{
+        fill: black;
+    }
+    
+}
+#path5{
+    animation: path5anim 10s linear 0s infinite ;
+}
+
+@keyframes path5anim {
+    0%{
+        fill: none;
+    }
+    14%,100%{
+        fill: black;
+    }
+    
+}
+
+#path6{
+    animation: path6anim 10s linear 0s infinite ;
+}
+
+@keyframes path6anim {
+    0%{
+        fill: none;
+    }
+    28%,100%{
+        fill: black;
+    }
+    
+}
+
+
+#path7{
+    animation: path7anim 10s linear 0s infinite ;
+}
+
+@keyframes path7anim {
+    0%{
+        fill: none;
+    }
+    42%,100%{
+        fill: black;
+    }
+    
+}
+
+
+#path8{
+    animation: path8anim 10s linear 0s infinite ;
+}
+
+@keyframes path8anim {
+    0%{
+        fill: none;
+    }
+    21%,100%{
+        fill: black;
+    }
+    
+}
+
+
+#path9{
+    animation: path9anim 10s linear 0s infinite ;
+}
+
+@keyframes path9anim {
+    0%{
+        fill: none;
+    }
+    35%,100%{
+        fill: black;
+    }
+    
+}
+
+#path10{
+    animation: path10anim 10s linear 0s infinite ;
+}
+
+@keyframes path10anim {
+    0%{
+        fill: none;
+    }
+    56%,100%{
+        fill: black;
+    }
+    
+}
+
+#path11{
+    animation: path11anim 10s linear 0s infinite ;
+}
+
+@keyframes path11anim {
+    0%{
+        fill: none;
+    }
+    49%,100%{
+        fill: black;
+    }
+    
+}
